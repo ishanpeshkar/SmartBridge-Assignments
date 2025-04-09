@@ -1,0 +1,11 @@
+just install all the dependencies 
+
+#npm install
+#npm install express
+
+
+# to run the project 
+
+
+for backend : "node server.js"
+for frontend : "npm run dev"
